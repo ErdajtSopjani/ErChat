@@ -21,11 +21,11 @@
     A simple Modern Chat UI made with WPF
     <br />
     <br />
-    <a href="https://github.com/ErdajtSopjani/ImageResizer">View Demo</a>
+    <a href="https://github.com/ErdajtSopjani/ErChat/releases">View Demo</a>
     ·
-    <a href="https://github.com/ErdajtSopjani/ImageResizer/issues">Report Bug</a>
+    <a href="https://github.com/ErdajtSopjani/ErChat/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ErdajtSopjani/ImageResizer/issues">Request Feature</a>
+    <a href="https://github.com/ErdajtSopjani/ErChat/issues">Request Feature</a>
   </p>
 </div>
 
@@ -89,13 +89,13 @@ Here are a couple of steps you can follow to get started with using my ChatApp
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ErdajtSopjani/ImageResizer?style=for-the-badge
-[contributors-url]: https://github.com/ErdajtSopjani/ImageResizer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ErdajtSopjani/ImageResizer?style=for-the-badge
-[forks-url]: https://github.com/ErdajtSopjani/ImageResizer/network/members
-[stars-shield]: https://img.shields.io/github/stars/ErdajtSopjani/ImageResizer?style=for-the-badge
-[stars-url]: https://github.com/ErdajtSopjani/ImageResizer/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ErdajtSopjani/ImageResizer?style=for-the-badge
-[issues-url]: https://github.com/ErdajtSopjani/ImageResizer/issues
-[Bootstrap.com]: https://img.shields.io/github/languages/top/ErdajtSopjani/ImageResizer?color=purple&style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/ErdajtSopjani/ErChat?style=for-the-badge
+[contributors-url]: https://github.com/ErdajtSopjani/ErChat/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ErdajtSopjani/ErChat?style=for-the-badge
+[forks-url]: https://github.com/ErdajtSopjani/ErChat/network/members
+[stars-shield]: https://img.shields.io/github/stars/ErdajtSopjani/ErChat?style=for-the-badge
+[stars-url]: https://github.com/ErdajtSopjani/ErChat/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ErdajtSopjani/ErChat?style=for-the-badge
+[issues-url]: https://github.com/ErdajtSopjani/ErChat/issues
+[Bootstrap.com]: https://img.shields.io/github/languages/top/ErdajtSopjani/ErChat?color=purple&style=for-the-badge
 [Bootstrap-url]: https://dotnet.microsoft.com/en-us/download
