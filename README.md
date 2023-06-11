@@ -44,7 +44,6 @@ I think this really helped and boosted my confidence for c# app development.
 Of course this program isn't going to be loved by everyone but the most important thing is I like.
 Keep in mind this was only a begginer project i did as a way to test my skills while learning c#.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -57,7 +56,7 @@ This project was made with C# and WPF.
 
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -83,12 +82,8 @@ Here are a couple of steps you can follow to get started with using my ChatApp
    
 4. After extracting the .ZIP file you can run the ErChat.exe file
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
