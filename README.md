@@ -33,7 +33,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Capture](https://user-images.githubusercontent.com/120386306/236635821-cba3ce42-0173-4240-8694-c8f2c8c914f8.PNG)
+![image](https://github.com/ErdajtSopjani/ErChat/assets/120386306/51de8447-87f1-4661-a8ea-06b52c9337c7)
+
 
 
 I made this project simply to test my design and development skills using c# and WPF.
