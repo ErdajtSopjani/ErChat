@@ -1,4 +1,4 @@
-# ImageResizer
+# ErChat
 <a name="readme-top"></a>
 
 
