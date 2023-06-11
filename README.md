@@ -68,11 +68,14 @@ Here are a couple of steps you can follow to get started with using my ChatApp
 ### Installation
 
 #### Here is a step-by-step guide on how you can run this program on your own device
+<br>
+<br>
+<br>
 
 1. Make sure you have dotnet installed (only if you want to run it with dotnet)
 <br>
 <br>
-<br>
+
 
 2. Go to the Releases tab
    ```sh
@@ -81,17 +84,17 @@ Here are a couple of steps you can follow to get started with using my ChatApp
    Download the ErChat.zip
 <br>
 <br>
-<br>
+
 
 3. After downloading the .ZIP file extract it
 <br>
 <br>
-<br>
+
    
 4. After extracting the .ZIP file you can run the ErChat.exe file
 <br>
 <br>
-<br>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
