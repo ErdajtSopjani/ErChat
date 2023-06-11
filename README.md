@@ -76,12 +76,12 @@ Here are a couple of steps you can follow to get started with using my ChatApp
    https://github.com/ErdajtSopjani/ErChat/releases
    ```
    Download the ErChat.zip
-   
+<br><br>
 3. After downloading the .ZIP file extract it
-   
+   <br><br>
    
 4. After extracting the .ZIP file you can run the ErChat.exe file
-
+<br><br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
